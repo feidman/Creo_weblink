@@ -12,3 +12,5 @@ https://www.icax.org/forum-18-1.html
 
 a book: 
 https://www.yumpu.com/en/document/view/8799627/pro-engineer-pro-weblink-users-guide-delta-force
+
+http://www.ptcuser.nl/conf_14/presentations/1-2-Customizing%20and%20Automating%20PTC%20Creo/APIs-2014.pdf
